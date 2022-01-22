@@ -1,4 +1,4 @@
-module PropertyWebAppAPI
+module GoRedisAPI
 
 go 1.17
 

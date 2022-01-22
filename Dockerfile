@@ -18,4 +18,4 @@ COPY --from=build-env /build/bin /app
 COPY server.crt server.crt
 COPY server.key server.key 
 
-ENTRYPOINT ["/app/PropertyWebAppAPI"]
+ENTRYPOINT ["/app/GoRedisAPI"]
